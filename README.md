@@ -1,4 +1,5 @@
 # 1024crawlers
+Please use it for Python learning purpose only, 仅供用于学习Python语法等知识
 Python scripting crawlers on 1024(t66y) site. automatically download the bitorrent file and jpg for view
 
 Requiremtns: Python 3xx, selenium.ChromeDrive
