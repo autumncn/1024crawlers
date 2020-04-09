@@ -1,5 +1,5 @@
 # 1024crawlers
-Python scripting crawlers on 1024 site. automatically download the bitorrent file and jpg for view
+Python scripting crawlers on 1024(t66y) site. automatically download the bitorrent file and jpg for view
 
 Requiremtns: Python 3xx, selenium.ChromeDrive
 
